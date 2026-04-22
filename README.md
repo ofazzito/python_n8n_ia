@@ -1,6 +1,8 @@
 # python_n8n_ia
 Curso de Python y n8n con IA - 28 clases Feb 2026
 
+Este repositorio pertenecea Omar Fazzito
+
 ## Clase 11 - Introducción a la Programación Orientada a Objetos y Uso de Git
 
 ### Descripción
